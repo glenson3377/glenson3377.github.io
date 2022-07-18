@@ -1,0 +1,25 @@
+p.clean_button{
+    grid-row: auto;
+}
+body{background-color: rgb(240, 227, 111); text-align: center;
+    background-image: url("space_tunnel.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+h1{text-decoration-color: black; font-style: italic;}
+p.boxes{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+table, th, td{
+    width: 2px ;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 2px;
+    box-shadow: auto white;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+}

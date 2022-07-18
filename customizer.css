@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+    background-image: -o-repeating-linear-gradient(aquamarine, red, black, blue);
+    text-align: center;
+}
+
+.fancy_wave {
+    width: 100px;
+    height: 30px;
+    outline-color: black;
+}
